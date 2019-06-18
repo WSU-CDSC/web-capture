@@ -1,3 +1,6 @@
+
+#!/usr/local/bin/ruby
+
 require 'fileutils'
 
 inputYear = ARGV[0]
